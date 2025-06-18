@@ -11,3 +11,11 @@ prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ishmakov Arth
 ![Node Exporter Service Status](node-exporter-service.png)
 
 node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+
+## Конфигурация Prometheus
+
+![Prometheus Configuration](prometheus-configuration.png)
+
+## Targets
+
+![Prometheus Targets](prometheus-targets.png)
